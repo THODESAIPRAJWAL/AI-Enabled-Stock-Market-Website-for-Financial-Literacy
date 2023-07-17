@@ -1,1 +1,1 @@
-[TARP - Bridging the Gap between Financial Illiteracy & Investment Success.docx](https://github.com/THODESAIPRAJWAL/stock-market-prediction-using-nlp-lstm-cv-on-website/files/12066535/TARP.-.Bridging.the.Gap.between.Financial.Illiteracy.Investment.Success.docx)
+
